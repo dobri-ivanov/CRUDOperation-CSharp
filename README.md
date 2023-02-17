@@ -8,7 +8,13 @@
 
 - CSharp .NET Framework console implemented application for basic database CRUD operation
 ## Usage
-
+### You can navigate application using numbers from 1 to 5. There are 6 simple operations:
+#### 1     - Insert new student
+#### 2     - Read information about all students and their parents
+#### 2.1   - Read information about student by entering name
+#### 3     - Modify student's name
+#### 4     - Delete student
+#### 5     - Get count of tests
 
 
 ## Gallery
@@ -24,10 +30,10 @@
 </div>
 
 ## Application Information
-
+#### Database information - Microsoft Access mdb database with OLEDB Provider
 ## Versioning
 
-### Current Version - 1.1.0 (Stable)
+### Current Version - 1.0.0 (Stable)
 
 ## Authors
 
