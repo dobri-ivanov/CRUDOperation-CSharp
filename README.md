@@ -33,7 +33,7 @@
 #### Database information - Microsoft Access mdb database with OLEDB Provider
 ## Versioning
 
-### Current Version - 1.1.0 (Stable)
+### Current Version - 1.0.0 (Stable)
 
 ## Authors
 
