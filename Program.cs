@@ -22,7 +22,7 @@ namespace CRUDOperations
             Console.WriteLine();
 
             //Connection with database
-            string connectionString = $"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=E:\\[Coding]\\Projects\\CRUDOperations\\SchoolEn.mdb";
+            string connectionString = $"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=E:\\[Coding]\\Projects\\CRUDOperation-CSharp\\SchoolEn.mdb";
             
             //Business logic
             while (true)
