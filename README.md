@@ -31,6 +31,8 @@
 
 ## Application Information
 #### Database information - Microsoft Access mdb database with OLEDB Provider
+#### Framework - .NET Framework
+
 ## Versioning
 
 ### Current Version - 1.0.0 (Stable)
