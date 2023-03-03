@@ -8,7 +8,7 @@
 
 - CSharp .NET Framework console implemented application for basic database CRUD operation
 ## Usage
-### You can navigate application using numbers from 1 to 5. There are 6 simple operations:
+### You can navigate through thrapplication using numbers from 1 to 5. There are 6 simple operations:
 #### 1     - Insert new student
 #### 2     - Read information about all students and their parents
 #### 2.1   - Read information about student by entering name
